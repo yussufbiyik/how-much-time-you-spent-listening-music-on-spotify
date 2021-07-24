@@ -1,5 +1,6 @@
 # How Much Time You Spent On Listening Spotify ?
-Honestly i was wondering this question for sometime and finally decided to make a python script to answer this question. There are easier ways of learning your listening time like downloading an app on your phone but i just wanted to make my own version.
+Honestly i was wondering this question for sometime and finally decided to make a python script to answer this question. 
+There are easier ways of learning your listening time like downloading an app on your phone but i just wanted to make my own version.
 
 In this readme file i will be teaching you how to get your data from Spotify and learn your listening time.
 ## How to get your listening data from Spotify?
