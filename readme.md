@@ -1,4 +1,4 @@
-# How Much Time You Spent On Listening Spotify ?
+# How Much Time You Spent Listening Music On Spotify ?
 Honestly i was wondering this question for sometime and finally decided to make a python script to answer this question. 
 There are easier ways of learning your listening time like downloading an app on your phone but i just wanted to make my own version.
 
