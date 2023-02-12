@@ -18,3 +18,6 @@ In this readme file i will be teaching you how to get your data from Spotify and
 4. Type or copy paste this command ```python listening_time_calculator.py``` then run the script by hitting enter 
 
 5. It will print a line that contains your listening time data as hours and days.
+
+## Result Screenshot
+![image](https://user-images.githubusercontent.com/25200573/218332185-544babb2-94f9-4e96-b7ae-2e4a3295e38a.png)
