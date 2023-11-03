@@ -4,12 +4,12 @@ total_listening_time = [] # A variable to collect each milisecond of listening t
 
 try: # Going through each StreamingHistory file and gathering listening time data for each song
     for path in pathlib.Path('your-data').iterdir():
-        if path.is_file() and path.name.startswith('StreamingHistory'):
+        if path.is_file() and path.name.startswith('Streaming_History'):
             print('Going through {}'.format(path.name))
             currentFile = open(path, 'r', encoding='UTF-8')
             for item in json.loads(currentFile.read()):
                 # Append the listening time to total_listening_time variable
-                total_listening_time.append(item['msPlayed'])
+                total_listening_time.append(item['ms_played'])
             currentFile.close()
 finally: # Calculating total listening time
     total = 0
